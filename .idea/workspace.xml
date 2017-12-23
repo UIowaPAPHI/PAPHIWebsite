@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ae18ca6-e52a-41ae-a375-7426512704e3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/tags/header.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/tags/navbar.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/views/Application/home.html" afterPath="$PROJECT_DIR$/app/views/Application/home.html" />
-      <change beforePath="$PROJECT_DIR$/app/views/admin/Admin/loginPage.html" afterPath="$PROJECT_DIR$/app/views/admin/Admin/loginPage.html" />
-      <change beforePath="$PROJECT_DIR$/app/views/main.html" afterPath="$PROJECT_DIR$/app/views/main.html" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.css.map" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/bootstrap.js" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/public/bootstrap/js/npm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_home.html" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_home.html" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_admin_Admin_loginPage.html" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_admin_Admin_loginPage.html" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" />
-    </list>
+    <list default="true" id="5ae18ca6-e52a-41ae-a375-7426512704e3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,9 +79,10 @@
       <file leaf-file-name="navbar.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/tags/navbar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="82" lean-forward="false" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
+            <state relative-caret-position="294">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
+                <element signature="n#style#0;n#nav#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
@@ -192,6 +167,11 @@
             <path>
               <item name="PAPhiWebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAPhiWebsite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAPhiWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAPhiWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PAPhiWebsite" type="b2602c69:ProjectViewProjectNode" />
@@ -443,12 +423,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514048387275</updated>
       <workItem from="1514048390876" duration="27000" />
-      <workItem from="1514048441258" duration="16584000" />
+      <workItem from="1514048441258" duration="16908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16611000" />
+    <option name="totallyTimeSpent" value="16935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="424" y="24" width="1498" height="1026" extended-state="0" />
@@ -594,11 +574,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="585" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="585" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tags/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="82" lean-forward="false" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
+        <state relative-caret-position="294">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
+            <element signature="n#style#0;n#nav#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
