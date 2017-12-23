@@ -6,6 +6,9 @@
 GET     /                                       Application.home
 GET     /home                                   Application.home
 
+# Admin Page
+GET     /loginPage                              admin.Admin.loginPage
+
 # Ignore favicon requests
 GET     /favicon.ico                            404
 
